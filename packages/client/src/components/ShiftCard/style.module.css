@@ -1,0 +1,11 @@
+.ShiftCardContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 12px;
+  border: 2px solid #eaeaea;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.selected {
+  background-color: rgb(129, 183, 255);
+}
